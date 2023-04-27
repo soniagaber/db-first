@@ -1,0 +1,13 @@
+id - SMALLINT - Primary Key, UNIQUE, AUTO_INCREMENT, NOT_NULL
+marca - VARCHAR(50) - NOT_NULL
+modello - VARCHAR(50) - NOT_NULL
+colore - VARCHAR(30) - NOT_NULL
+km_percorsi - MEDIUMINT - NOT_NULL
+alimentazione - VARCHAR(30) - NOT_NULL
+cambio - VARCHAR(15) - NOT_NULL
+posti - TINYINT- NULL
+doors - TINYINT - NOT_NULL
+potenza - VARCHAR(20) - NOT_NULL
+cilindrata - MEDIUMINT - NOT_NULL
+immatricolazione - DATE - NOT_NULL
+price - MEDIUMINT - NULL
